@@ -8,3 +8,8 @@ A Cheat Sheet of Basic PHP commands for GCE A/L Students
 - `ex4.php` If..else statements
 - `ex5.php` If..else if..else statements
 - `ex6.php` while loop
+- `ex7.php` do..while loop
+- `ex8.php` for loop
+- `ex9.php` Arrays
+- `getForm.php` `form.html` Forms
+- `imageUploader.php` `imageUpload.html` Image Uploading
