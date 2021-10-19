@@ -3,11 +3,11 @@
 <body>
 
 <?php
-$counter = 0;
+$counter = 1;
 
-while($counter < 5){
+while($counter <= 5){
     echo $counter . "<br>";
-    $counter = $counter+1;
+    $counter++;
 }
 
 ?>
