@@ -11,6 +11,7 @@ $myArr = array('A', 'B', 25); //Array
 echo $myStr . "<br>";
 echo $myInt . "<br>";
 echo $myFloat . "<br>";
+echo '<pre>'; print_r ($myArr); echo '<pre>';
 
 
 ?>
